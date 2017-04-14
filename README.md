@@ -1,5 +1,5 @@
 # DontEditBot
-git clone https://github.com/PG-Team/PyDontEditBot
+git clone https://github.com/TeleSeedTM/DontEditBot
 
 sudo apt-get install python-pip
 
